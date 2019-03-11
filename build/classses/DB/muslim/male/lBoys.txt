@@ -1,0 +1,36 @@
+Laith	Lion, Famous	5	Boy	
+Laeeq	Able, Fit, Deserving	22	Boy	
+Laiq	Able, Fit, Deserving	3	Boy	
+Lais	A famous jurist had this name	5	Boy	
+Lut		A prophets name lot	8	Boy	
+Lodhi	A famous afghan tribe	3	Boy	
+Lal		Pearl, Ruby, Name of a precious stone, Red, Heart, Child, Beloved	7	Boy	
+Labeeb	Sensible, Intelligent	9	Boy	
+Lahan	Little bright headed one	9	Boy	
+Latif	Kind, Elegant	3	Boy	
+Lutfi	Kind and friendly	5	Boy	
+Lisan	Tongue, Language, Defender of mankind	1	Boy	
+Liban	Successful, Charmed	2	Boy	
+Lazim	Fitting, Compulsory, Needed	7	Unisex	
+Layth	Lion, Famous	3	Boy	
+Layeeq	Proper, Worthy, Capable, Clever	11	Boy	
+Labid	A companion	1	Boy	
+Lutf	Bounty, Enjoyment	5	Unisex	
+Luham	Great	1	Boy	
+Laham	Intuition, Conjecture, Wisdom	8	Boy	
+Lameek	One whose eyelids are attratively dark	2	Boy	
+Lamaan	Glimmer	6	Boy	
+Labib	Sensible, Intelligent	8	Boy	
+Lahiq	White-colored	11	Boy	
+Lateef	Kind, Elegant	22	Boy	
+Layiq	Proper, Worthy, Capable, Clever	1	Boy	
+Luft	Leniecy	5	Boy	
+Laqeet	Well known companion of the prophet	6	Boy	
+Laraib	Faultless, Pure, Intact	7	Unisex	
+Lutah	Judicious	8	Boy	
+Lutfan	Kindness	2	Boy	
+Lutfah	Gentleness	5	Boy	
+Lamihah	Glances	7	Boy	
+Lazimah	Sought after	7	Boy	
+Lutaifah	Kind	6	Boy	
+Lutaif	Gentle	6	Boy

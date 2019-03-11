@@ -1,0 +1,48 @@
+Yas	Jasmine	9	Boy	
+Yafi	A narrator of Hadith	5	Boy	
+Yoon	Journey	6	Boy	
+Yama	Stream, Motion, Night, God of death, River	4	Boy	
+Yar	Friend	8	Boy	
+Yala	Height	3	Boy	
+Yaman	Blessed	9	Boy	
+Yasir	Wealthy, Lives forever	9	Boy	
+Yoonus	A prophets name	1	Boy	
+Yaamin	Blessed, Auspicious, Oath, Right hand, Right wing, Right side, Restrained	9	Boy	
+Yusuf	A prophets name	2	Boy	
+Yasar	Ease, Wealth, Lives forever	1	Boy	
+Yahyaa	A prophets name	7	Boy	
+Yoosuf	A prophets name	11	Boy	
+Yaseen	One of the prophet muhammads names, Sura in Quran	6	Boy	
+Yuhans	A prophets name	7	Boy	
+Yazeed	God will increase, Enhance, Grow	3	Boy	
+Yaeesh	Bin al-jahm was a narrator of Hadith	9	Boy	
+Yasaar	Ease, Wealth, Lives forever	2	Boy	
+Yazan	Determined, Resolved	22	Boy	
+Yahya	A prophets name	6	Boy	
+Yawer	Helper	9	Boy	
+Yasoob	Title of Ali	5	Boy	
+Yunus	A prophets name	1	Boy	
+Yaqeen	Trust, Belief	4	Boy	
+Yamaan	Blessed	1	Boy	
+Yamin	Blessed, Auspicious, Oath, Right hand, Right wing, Right side, Restrained	8	Boy	
+Yameen	Blessed, Auspicious, Oath, Right hand, Right wing, Right side, Restrained	9	Boy	
+Yasra	Affluent, Rich, Prosperous	1	Boy	
+Yaseer	Wealthy, Lives forever	1	Boy	
+Yushua	God saves	5	Boy	
+Yaqub	Ruby, Precious stone, A prophets name	3	Boy	
+Yakta	Unique	4	Unisex	
+Yashar	Ease, Wealth, Lives forever	9	Boy	
+Yagana	Unique, Unprecedented	22	Boy	
+Yawar	Helping	5	Boy	
+Yaqoot	Precious stone	3	Unisex	
+Yusri	Easy	11	Boy	
+Yaqoob	Ruby, Precious stone, A prophets name	3	Boy	
+Yamak	A king	6	Boy	
+Yaquta	Ruby stone	22	Boy	
+Yaser	Wealthy, Lives forever	5	Boy	
+Yamam	Ringneck dove	8	Boy	
+Yaroq	Friend	4	Boy	
+Yusrah	Ease	11	Boy	
+Yusraat	Lack of difficulty	6	Boy	
+Yazeedah	Increase	3	Boy	
+Yafir	Suggest meaning	5	Boy

@@ -1,0 +1,73 @@
+Diyan	Bright light	8	Boy	
+Dara	Possessor, Sovereign	6	Unisex	
+Deen	Religion, Faith, Belief	1	Boy	
+Duha	Fore Noon	7	Unisex	
+Dahi	Lion, Rapid	22	Boy	
+Dana	Learned, Intelligent, Grain, Wise, Another name for God	11	Boy	
+Din		Religion, Faith, Belief	9	Boy	
+Diar	An expensive wood	5	Boy	
+Dahiah	Intelligent	4	Boy	
+Daeb	Diligent	3	Boy	
+Dil		Heart, Mind	7	Unisex	
+Dina	Divine, Grand, Vindicated	1	Unisex	
+Deeb	Wolf	7	Boy	
+Dawoud	A prophets name	5	Boy	
+Dinar	Gold coin (Name of grandfather of abu bin Thabit)	1	Boy	
+Daiyan	A mighty ruler, Judge, Guard	9	Boy	
+Daamin	Guarantor, Surety, Conquering, Self-controlled	6	Boy	
+Dayim	Everlasting, Perpetual, For	7	Boy	
+Diyana	Giver of gifts	9	Boy	
+Diwan	Royal court, Tribunal of justice	6	Boy	
+Dafiq	Jubilant, Buoyant, Active	1	Boy	
+Dean	Religion	6	Boy	
+Daib	Happy fellow	7	Boy	
+Dirar	Old Arabic name	5	Boy	
+Darim	A narrator of Hadith	9	Boy	
+Dayyin	Devout	6	Boy	
+Daeej	One who has large beautiful eyes	7	Boy	
+Dawood	Beloved, A prophets name David	8	Boy	
+Dawar	Ruler, Judge	2	Boy	
+Diyari	A gift, A present	3	Boy	
+Dameer	Heart, Conscience	1	Boy	
+Dhakir	One who remembers God	6	Boy	
+Duhat	Intelligent	9	Boy	
+Daneer	Radiant	11	Boy	
+Dahus	Lion	8	Boy	
+Dalil	Another name of God, Evidence, Guide	2	Boy	
+Dareeq	Mender	5	Boy	
+Daruj	Fast	9	Boy	
+Dareeb	Trained	8	Boy	
+Dabir	Judge	7	Boy	
+Daboor	Morning breeze	1	Boy	
+Dost	Friend	4	Boy	
+Dhakiy	Intelligent, Bright	4	Boy	
+Daudi	A flower	3	Boy	
+Duhr	Noon	6	Boy	
+Daqr	Beautiful and thriving garden	22	Boy	
+Dakhil	Foreigner, Stranger	9	Boy	
+Droon	Respectable	3	Boy	
+Diras	Scholar	6	Boy	
+Dalir	Brave	8	Boy	
+Dawud	Beloved, A prophets name David	8	Boy	
+Dagar	Open space, Battle field	22	Boy	
+Darab	Big gate, A name	8	Boy	
+Darman	Cure, Treatment	6	Boy	
+Dibaaj	Type of silk clothing	9	Boy	
+Dalaj	A Mufti of baghdad, Ibn ahma	1	Boy	
+Duryab	Finder of good things	8	Boy	
+Dadmehr	Lover of justice	8	Boy	
+Delshad	Happy	8	Boy	
+Diyanat	Religion	11	Boy	
+Dahiyyah	Intelligent	9	Boy	
+Darkan	Perceptive	22	Boy	
+Dadvar	Judge	5	Boy	
+Diryas	Lion	4	Boy	
+Dafqah	Brust	1	Boy	
+Dahban	Gold plated	3	Boy	
+Dastan	Story	5	Boy	
+Dayyar	Inhabitant	11	Boy	
+Dirbas	Lion	8	Boy	
+Dirgham	Lion	6	Boy	
+Dawmah	Type of palm tree	5	Boy	
+Dawmat	Type of palm tree	8	Boy	
+Dinarah	Gold coin	1	Boy

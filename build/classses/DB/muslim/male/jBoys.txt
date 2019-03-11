@@ -1,0 +1,103 @@
+Jina	To live, Lord Vishnu	7	Boy	
+Jahi	Bright, Shining, Dignified	1	Boy	
+Jal	Water	5	Boy	
+Jeena	To live, Lord Vishnu	8	Unisex	
+Jaza	Reward	11	Unisex	
+Jan	Beloved, Life, Sing	7	Boy	
+Jami	Helper, Supporter, Beautiful	6	Unisex	
+Josha	Satisfied, A woman	8	Boy	
+Jazi	To take revenge	1	Boy	
+Jaah	Respect, Rank	11	Boy	
+Jah	Respect, Rank	1	Boy	
+Juda	Goodness, Excellence	9	Boy	
+Jari	Powerful, Brave	2	Boy	
+Jaul	Choice	8	Boy	
+Jul	Resolution, Firm will	7	Boy	
+Jad	Curly, Frizzled	6	Boy	
+Jaun	Kind of plant	1	Boy	
+Jihan	Leaping, The universe, The world	6	Boy	
+Jaabir	Consoler, Comforter, The person who have religious	5	Boy	
+Jahan	The world	7	Boy	
+Jaafar	Rivulet, River, Stream, Little creek	1	Boy	
+Jabez	God will increase your boundary	8	Boy	
+Jaheer	Bright, Shining, Sparkling, Luminous, Visible, Distinct	11	Boy	
+Juber	Brave warrior	2	Boy	
+Jashan	Celebration, Festival	8	Boy	
+Jayad	Causing victory	5	Boy	
+Jashik	Protector	22	Boy	
+Joyab	Loyal	8	Boy	
+Jalil	Great, Revered	8	Boy	
+Jaish	Excellent, Of high quality	2	Boy	
+Jawad	Liberal, Eternal, Jawad	3	Boy	
+Jalaal	Glory of the faith	1	Boy	
+Jamal	Beauty	1	Boy	
+Junaid	Fighter, Worrier whose strength is equal to a small army	5	Boy	
+Javed	Eternal or immortal or living forever	6	Boy	
+Jalal	Glory of the faith	9	Boy	
+Jidan	Abundance	2	Boy	
+Jasim	Great and famous	7	Boy	
+Javeed	Eternal or immortal or living forever	2	Boy	
+Jamil	Beautiful	9	Boy	
+Jahaan	The world	8	Boy	
+Jihad	Holy war	5	Boy	
+Jiyad	Growth, Super abundance	22	Boy	
+Jafar	Rivulet, River, Stream, Little creek	9	Boy	
+Jahid	Abstemious, Ascetic, Saintly, Diligent, Hardworking	5	Boy	
+Jahsh	Companion of prophet Muhammad	1	Boy	
+Jazel	Good attitude, Good manners, Tremendous	9	Boy	
+Jabir	Consoler, Comforter	22	Boy	
+Jauhar	Jewel or gem	5	Boy	
+Jafri	Yellow flower	8	Boy	
+Jamaal	Beauty	11	Boy	
+Jilal	Shade, Shadow	8	Boy	
+Jasir	Brave, Bold, Courageous	3	Boy	
+Jahiz	Ogle eyed	9	Boy	
+Jaamil	Beautiful	1	Boy	
+Jazal	Happiness, Great	5	Boy	
+Jubair	Counsels, Brings together	7	Boy	
+Jazeel	Good attitude, Good manners, Tremendous	5	Boy	
+Jareem	Praising	7	Boy	
+Jaban	Soft hearted, Tenderness of	1	Boy	
+Jazib	Absorber, Attractive	3	Boy	
+Javad	Liberal, Eternal, Jawad	11	Boy	
+Juyal	Quarrdsome	6	Boy	
+Jariya	Beauty and light	1	Boy	
+Jeelan	It is a city in iran, Courtier	2	Boy	
+Jazam	Encourager, Instigator	6	Boy	
+Juayl	One black and ill-shaped	6	Boy	
+Jazey	Impatient	22	Boy	
+Jaram	One in thousand	7	Boy	
+Jalees	A companion, Chum	7	Boy	
+Javaid	Liberal, Eternal	2	Boy	
+Jalis	A companion, Chum	6	Boy	
+Juail	One black and ill-shaped	8	Boy	
+Jabal	Mountain, Ibn Yazid	8	Boy	
+Janan	Heart or soul, Paradise, Heaven	4	Unisex	
+Jaleed	Powerful, Patient	1	Boy	
+Jawan	A young Man	4	Boy	
+Jahm	Sullen	5	Boy	
+Jazub	Attractive	6	Boy	
+Jumah	Born on friday	8	Boy	
+Jaraah	Surgeon, Name of tabaree	3	Boy	
+Jarir	Corpulent, One who can pull, Name of a famous Arab poet	11	Boy	
+Jaboor	Strong	7	Boy	
+Juday	This was the name of a skilled kufic script writer who wrote copies of the Quran during the reign of Muslim	7	Boy	
+Jalut	Goliath	1	Boy	
+Jasur	Brave, Bold, Courageous	6	Boy	
+Jareer	Corpulent, One who can pull, Name of a famous Arab poet	3	Boy	
+Jumal	Handsome	3	Boy	
+Jaleb	Attainer	3	Boy	
+Jnab	An honorific title	9	Boy	
+Jazool	Happy	7	Boy	
+Jamuh	Defiant	8	Boy	
+Jarood	Name of a companion	9	Boy	
+Jarum	Pure in color	9	Boy	
+Jareed	Hawk, Messenger, Herald	7	Boy	
+Jabr	Compulsion name of a companion	4	Boy	
+Jadirah	Nature	6	Boy	
+Jahizah	Ready	9	Boy	
+Jibalah	Mountains	7	Boy	
+Jazilah	Majestic	4	Boy
+Jahidah	Abstinent, Helps the vulnerable	5	Boy	
+Jumaila	Suggest meaning	22	Boy	
+Jnhih	Suggest meaning	4	Boy

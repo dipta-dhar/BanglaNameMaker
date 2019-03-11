@@ -1,0 +1,32 @@
+Ghazi	Conqueror	6	Boy	
+Ghaazi	Conqueror	7	Boy	
+Ghani	Rich, Wealthy, Prosperous	3	Boy	
+Ghaus	Help, Aid, Rescue, Succor	2	Boy	
+Ghaith	Rain	8	Boy	
+Ghais	Rain	8	Boy	
+Ghauth	Helper, Defender, Successor	11	Boy	
+Ghali	Valuable, Dear, Beloved, Expensive	1	Boy	
+Ghalib	Victor, First, Predominant, Another name for God	3	Boy	
+Gogal	Vocal cords	6	Boy	
+Gabir	Comforter	1	Boy	
+Gohar	Diamond, Precious stone	4	Unisex	
+Gran	Dear, Beloved	22	Boy	
+Ghazan	Holy war fighter	3	Boy	
+Ghafur	Forgiver, Merciful	7	Boy	
+Gutaif	A well of a person, Well to do	1	Boy	
+Ghulam	Servant, Boy, Youth	8	Boy	
+Gasheen	Good	5	Boy	
+Ghamay	Precious stone	1	Boy	
+Gamil	Beautiful	6	Boy	
+Ghiyas	Deliverance from hardships	6	Boy	
+Ghanim	Successful	7	Boy	
+Gamal	Camel	7	Unisex	
+Ghanem	Successful	3	Boy	
+Ghayab	Disappear	8	Boy	
+Gahez	Morning	11	Boy	
+Gharib	Poor, Need, Humble, Stranger	9	Boy	
+Ghadef	One who drives a boat	4	Boy	
+Gafar	Stream	6	Boy	
+Ghawth	Helper, Defender, Successor	4	Boy	
+Goharnaz	Beautiful	9	Boy	
+Goharshad	Happy jewel	9	Boy

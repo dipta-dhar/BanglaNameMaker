@@ -1,0 +1,153 @@
+Hani	Happy, Delighted, Content, Pleasant	5	Boy	
+Haady	Guiding to the right	3	Boy	
+Heer	Powerful, Power, Diamond, Darkness	9	Boy	
+Haani	Happy, Delighted, Content, Pleasant	6	Boy	
+Haadee	The guide, Director, Leader	6	Boy	
+Hadi	The guide, Director, Leader	22	Boy	
+Hafi	Generous	6	Boy	
+Hami	Protector, Patron, Supporter, Defender	22	Boy	
+Houd	A prophets name	3	Boy	
+Hadee	The guide, Director, Leader	5	Boy	
+Hood	Name of a prophet of almighty, A prophet title of the 11th	6	Boy	
+Hanai	Of happiness	6	Boy	
+Hanfi	School follower	11	Boy	
+Hud	Name of a prophet of almighty, A prophet title of the 11th	6	Boy	
+Hub	Love	4	Boy	
+Haji	Pilgrim	1	Boy	
+Haib	Greatness	2	Boy	
+Haq	True, Truth, Real, Right	8	Boy	
+Haibaa	Gravity	22	Boy	
+Houda	Guided	22	Boy	
+Hend	Group of camels that number from 100 to 200	22	Boy	
+Hamza	Lion	22	Boy	
+Hanzal	Gift from God	8	Boy	
+Harshit	Beautiful, Friend, Colleague	11	Boy	
+Haamid	Praising (God), Loving (God), Friend, Praiser, All-laudable	9	Boy	
+Haider	Lion	9	Boy	
+Hanafi	True believer	3	Boy	
+Hafiz	Protector, One who has memorized the Quran	5	Boy	
+Hamid	Praising (God), Loving (God), Friend, Praiser, All-laudable	8	Boy	
+Habib	Beloved	22	Boy	
+Humaid	Diminutive of Ahmad, Praised	11	Boy	
+Haroon	Lofty or exalted, A prophets name (Aaron) (Celebrity Name: Ranvir Shorey and Konkona Sen Sharma)	8	Boy	
+Hatim	Judge	6	Boy	
+Haatim	Judge	7	Boy	
+Hibah	A gift from God	1	Boy	
+Hamiz	Intelligent, Brilliant	3	Boy	
+Hisham	Companion of prophet Muhammad, Generous	4	Boy	
+Hyder	Name of the hadrath Ali the lion, The brave	6	Boy	
+Hunain	Islamic place	4	Boy	
+Husaam	Sword	9	Boy	
+Hasib	Reckoned, Another name of prophet Muhammad	3	Boy	
+Haaziq	Intelligent, Skillful	8	Boy	
+Hashim	Generosity, Prophets grandfather, Decisive	4	Boy	
+Hataf	Mars	9	Boy	
+Haaiz	Getter	9	Boy	
+Hanash	A Hadith was narrated by a Man with the same name	6	Boy	
+Haris	Ploughman, Cultivator, Friend	1	Boy	
+Haaris	Ploughman, Cultivator, Friend	11	Boy	
+Hafeez	Guardian, Protector	6	Boy	
+Humam	Courageous and generous	2	Boy	
+Hariz	The horizon, Strong, Secure, Guarded	8	Boy	
+Haseeb	Reckoned, Another name of prophet Muhammad	22	Boy	
+Hanin	Yearning, Desire	1	Unisex	
+Hiras	Scratching, Scraping	1	Boy	
+Hayaat	Life	2	Boy	
+Haziq	Intelligent, Skillful	7	Boy	
+Husain	In protection, Security	9	Boy	
+Hunaid	Happiness	3	Boy	
+Hadid	The 57th surah of holy Quran, Iron, Eloquent	8	Boy	
+Hasni	Happy	6	Boy	
+Haafiz	Protector, One who has memorized the Quran	6	Boy	
+Habeel	Name of One of the Sons of Sayyidina Aadam his Sacrifice was Accepted by Allah but that of Qabeel, his Brother Rejected	6	Boy	
+Humza	The name Humza is one of the Arabic alphabets	6	Boy	
+Hamd	Praise, Lauding	8	Boy	
+Hadir	Good mannered	4	Boy	
+Hasif	Judicious, Wise, Prudent	7	Boy	
+Huzair	Laughter	11	Boy	
+Hadal	Peaceful	8	Boy	
+Haalim	Mild, Gentle, Patient, Forbearing, Grown up	8	Boy	
+Hanif	Upright, True, True believer	11	Boy	
+Habis	A narrator of Hadith	3	Boy	
+Hadad	Syrian God of fertility, Joy	9	Boy	
+Hairum	Pious	7	Boy	
+Haalah	Aureole	22	Boy	
+Haidar	Lion, Title of Ali	5	Boy	
+Hamood	One who praises Allah	11	Boy	
+Hamas	Enthusiasm	6	Unisex	
+Hasher	Collector	5	Boy	
+Hareem	Respectable	5	Unisex	
+Humair	Reddish	7	Boy	
+Hazim	Firm, Resolute, Energetic	3	Boy	
+Habab	Aim, Goal, End	5	Boy	
+Halif	Ally, Confederate	9	Boy	
+Hamed	Praising (God), Loving (God), Friend, Praiser, All-laudable	22	Boy	
+Habash	Guinea hen, Guinea fowl	3	Boy	
+Hatif	Praiser, A voice from heaven	8	Boy	
+Hameed	Praising (God), Loving (God), Friend, Praiser, All-laudable	9	Boy	
+Hashir	Gatherer, One who assembles	9	Boy	
+Hubab	Bubble of water, Name of a sahabi	7	Unisex	
+Hamim	Friend, Close friend	8	Boy	
+Hakim	Wise, Ruler, Governor, Brother	6	Boy	
+Hameem	Friend, Close friend	9	Boy	
+Hamdi	Of praise	8	Boy	
+Hasim	Generosity, Prophets grandfather, Decisive	5	Boy	
+Hasin	Beautiful, Handsome	6	Boy	
+Hadis	Narration of prophet Muhammad	5	Boy	
+Hajir	Another name of God, Present, Ready	1	Boy	
+Halim	Mild, Gentle, Patient, Forbearing, Grown up	7	Boy	
+Hamal	Lamb	8	Boy	
+Hakan	Politics, Leader	8	Boy
+Husni	Good, Handsome, Name of saint	8	Unisex	
+Haibah	Majesty	11	Boy	
+Hashid	One who rallies people	4	Boy	
+Hask	Acme of mountain	3	Boy	
+Hirz	Another name of God, Place of refuge	7	Boy	
+Hatib	A wood collector	22	Boy	
+Hesam	Sharp sword	1	Boy	
+Hafez	Guardian, Protector	1	Boy	
+Husam	Sword	8	Boy	
+Hafs	Lion, Young of lion	7	Boy	
+Haleem	Mild, Gentle, Patient, Forbearing, Grown up	8	Boy	
+Halil	Clear	6	Boy	
+Hooman	Good soul, Good natured	3	Boy	
+Haleef	Ally, Confederate	1	Boy	
+Harir	Silk, Silken cloth Ibn al-s	9	Unisex	
+Hafid	The wise one	1	Boy	
+Hasham	Servant	5	Boy	
+Hajid	One who sleeps	5	Boy	
+Hirad	Appearing fresh and healthy	4	Boy	
+Haelah	Exceptional	8	Boy	
+Haikal	Tale	6	Boy	
+Hareef	Pungent, Acrid	7	Boy	
+Hamdhy	Sympathy, Blessing	5	Boy	
+Hilmi	Gentle, Calm	6	Boy	
+Hakam	Arbitrator, Judge	7	Boy	
+Hudad	Name of a pre islamic Arabic king	2	Boy	
+Heerad	Appearing fresh and healthy	5	Boy	
+Hasil	Producer	22	Boy	
+Hazir	Another name of God, Present, Ready	8	Boy	
+Hakeem	Wise, Ruler, Governor, Brother	7	Boy	
+Hosaam	Sword	3	Boy	
+Hewad	Homeland	5	Boy	
+Hakem	Wise, Ruler, Governor, Brother	2	Boy	
+Humd	Praise of Allah	1	Boy	
+Halul	Heavy	9	Boy	
+Hilali	Crescent-like	6	Boy	
+Haddad	Blacksmith	22	Boy	
+Hatem	Judge, Justice, Decider	2	Boy	
+Hubaab	Bubble of water, Name of a sahabi	8	Boy	
+Harut	One of the two angels sent to babel	5	Boy	
+Hajib	Doorman, Janitor, Bailiff	3	Boy	
+Hosni	Beauty, Excellence	11	Boy	
+Hazar	Attention, Ready	9	Unisex	
+Hasoun	Virtuous	6	Boy	
+Hayl	Heaped sand	1	Boy	
+Haqqi	A Person who Upholds the Truth; Just	7	Boy	
+Haneef	Upright, True, True believer	3	Boy	
+Haraz	Make fun, Comedy	9	Boy	
+Hadaya	Gifts, Presents, Pl of Hadi	22	Unisex	
+Hayy	Alive, Living	5	Boy	
+Hazzar	One who laughs often	8	Boy	
+Hillah	Shower of rain	5	Boy	
+Hadahid	Suggest meaning	8	Boy

@@ -1,0 +1,255 @@
+Saad	Good luck, Happy	7	Boy	
+Shaaz	Unique, One in many	1	Boy	
+Saif	Sword	8	Boy	
+Saabir	Patient, Tolerant	5	Boy	
+Shoaib	Who shows the right path, Shoaib was a prophet of Islam	9	Boy	
+Shoor	Valiant, Bold, Mighty, Brave, Lion, Tiger	3	Boy	
+Sami	Eminent, Exalted, High, Sublime, Similar	6	Boy	
+Shaady	Singer	22	Boy	
+Shafi	Giving shaft, Honest, Truthful, Healer	7	Boy	
+Saim	Fasting	6	Boy	
+Shafee	Giving shaft, Honest, Truthful, Healer	8	Boy	
+Shad	Good luck, Happy	5	Unisex	
+Saifee	Concerning sword	9	Boy	
+Saafi	Pure, Clear, Crystal	9	Boy	
+Sama	One who listens a lot, Sky, Peaceful, Evenness, Comparable, A year	7	Unisex	
+Saami	Eminent, Exalted, High, Sublime, Similar	7	Boy	
+Saadi	Marriage	7	Boy	
+Sadun	Happy	5	Boy	
+Saal	The year consisting of twelve months	6	Boy	
+Saud	Fortunate	9	Boy	
+Safi	Pure, Clear, Crystal	8	Boy	
+Syed	Prince, Always in control	8	Boy	
+Shaya	Worthy, Deserving, Meriting	9	Boy	
+Shefi	Wisdom	11	Boy	
+Sad	Good luck	6	Boy	
+Saeeb	Right, Appropriate, Correct	5	Boy	
+Shah	King, Able	9	Boy	
+Sina	Gods gift, Ankle bells, Brightness	7	Boy	
+Sudi	Scholar, A narrator of Hadith	8	Unisex	
+Sair	Walking, Going on foot	2	Boy	
+Shajee	Bold, Courageous, King of noble men	3	Boy	
+Sabhaa	Pretty, Beautiful, Graceful, Bright like morning	5	Boy	
+Said	Blissful, Auspicious, Happy	6	Boy	
+Saib	Right, Appropriate, Correct	4	Boy	
+Saeel	Attacker	6	Boy	
+Shaafi	Pure, Clear, Crystal	8	Boy	
+Shabi	A leading scholar of his time, Especially for the Hadith, Sweet, Sabine	3	Boy	
+Shaaf	One who gives health	8	Boy	
+Sawa	Equal, Same	8	Boy	
+Saja	A pleasant face, Eloquent	4	Boy	
+Sab	Lion	4	Boy	
+Sarae	Swift	8	Boy	
+Saahir	Wakeful, Magician, Alert, Nocturnal	11	Boy	
+Suhaan	Very good, Pleasant, Beautiful	1	Boy	
+Shazil	King	3	Boy	
+Shayan	Intelligent, Courteous	5	Boy	
+Shezin	Prince	9	Boy	
+Saajid	Protractor, One who worships God	8	Boy	
+Sabir	Patient, Tolerant	22	Boy	
+Samar	Accompanied by the eternal gods, Fruit, Outcome, Possession, Conflict, Son	7	Boy	
+Saalih	Good, Righteous, Safe, Whole, Flawless	5	Boy	
+Sarish	Equal, Morning	11	Boy	
+Sahar	Dawn, Early morning, Moonlight	2	Boy	
+Sohail	Moon glow, Moonlight, Handsome	1	Boy	
+Sahir	Wakeful, Magician, Alert, Nocturnal	1	Boy	
+Sadiq	Trustworthy, Kingly	5	Boy	
+Sahib	Master, Gentleman, Companion	3	Boy	
+Saifan	Sword of Allah	5	Boy	
+Saeed	Blissful, Auspicious, Happy	7	Boy	
+Shahid	Honey, Witness, Patriot	4	Boy	
+Sabeeh	Beautiful, A narrator of Hadith, Pleasant, Fond	22	Boy	
+Sohel	Moon glow, Moonlight, Handsome	5	Boy	
+Sadham	Proud	1	Boy	
+Sadin	Independent, Fawn, Young deer	2	Boy	
+Sadeeq	Trustworthy, Kingly	6	Boy	
+Shabaz	Beautiful, Handsome, Intelligent, Protected by Allah, Self confidence, Respectful	3	Boy	
+Shaariq	Intelligent, Brilliance	1	Boy	
+Safiy	Saffron the spice or yellow or precious or glowing, Best friend	6	Boy	
+Shazad	Prince	5	Boy	
+Shubhan	Praising Allah, Holy, One who is auspicious	1	Boy	
+Shanza	Women of dignity	6	Boy	
+Saffi	Saffron the spice or yellow or precious or glowing, Best friend	5	Boy	
+Shadab	Green, Fresh, Wet, Ever-green	8	Boy	
+Shakeel	Handsome	7	Boy	
+Shaheem	Intelligent	5	Boy	
+Shabin	From the name sabine An italian culture	8	Boy	
+Samim	Fragrance, Fragrant, Sincere, Genuine, Pure, True	1	Boy	
+Sameen	Precious, Invaluable, Happy, Self-disciplined	3	Boy	
+Siraj	Lamp, Light	3	Boy	
+Shazib	Beautiful	11	Boy	
+Shamshad	Beautiful	1	Boy	
+Simra	Heaven	6	Boy	
+Shamim	Fragrance, Fragrant, Sincere, Genuine, Pure, True	9	Boy	
+Salim	Sound, Unimpaired, Sane, Sincere, Safe, Happy, Peaceful	9	Boy	
+Sayed	Leader, Lord, Master	9	Boy	
+Shakib	Patience	5	Boy	
+Shoeb	Famous, Always victorious, Prosperous, Most liked, Humble	22	Boy	
+Shariq	Intelligent, Brilliance, Associate	9	Boy	
+Saquib	Bright	6	Boy	
+Shakeb	Patience	1	Boy	
+Shabir	Pious, Beautiful	3	Boy	
+Saaqib	Shining star	22	Boy	
+Salil	Handsome, Water	8	Boy	
+Shaheen	Falcon, Hawk (Garuda)	6	Boy	
+Sharif	Honest, Honorable, Noble, Distinguished, Gentleman, Virtuous, Pure, Holy virtuous	7	Boy	
+Sairah	Poetess, Beautiful	11	Boy	
+Saamir	Early morning fragrance, Entertaining companion, Wind	7	Boy	
+Shehin	King	9	Boy	
+Sajid	Protractor, One who worships God	7	Boy	
+Shibil	Young one in Arabic	5	Boy
+Sahil	Sea shore, Guide, Shore, Bank	22	Boy	
+Shaiel	Glittering Like Stars	9	Boy	
+Salah	Righteousness	5	Boy	
+Samad	Eternal, Immortal, One of ninety nine names of God	11	Boy	
+Shamsh	Fragrance, The Sun	5	Boy	
+Shayer	Poet	4	Boy	
+Suneer	Holly Water	1	Boy	
+Shihab	Flame, Blaze	11	Boy	
+Samal	Row of swans	1	Boy	
+Salem	Sound, Unimpaired, Sane, Sincere, Safe, Happy, Peaceful	5	Boy	
+Saleem	Sound, Unimpaired, Sane, Sincere, Safe, Happy, Peaceful	1	Boy	
+Shofin	Josephin	8	Boy	
+Sabeer	Patient, Tolerant	5	Boy	
+Saadat	Blessing, Honor, Happiness, Bliss, Felicity	1	Unisex	
+Sahim	Partner	5	Boy	
+Sinan	Spear head	3	Boy	
+Sadik	Trustworthy, Kingly	8	Boy	
+Saaiq	He who drives on the right path	2	Boy	
+Suhaib	Of reddish hair, Complexion	6	Boy	
+Safeer	Ambassador, Handsome, Emissary, Mediator	9	Boy	
+Saafir	Ambassador, Handsome, Emissary, Mediator	9	Boy	
+Sabiq	Another name of God, Primary, First	3	Boy	
+Sameed	Brave, Simple	2	Boy	
+Saadah	Happiness	7	Boy	
+Shafin	He who cures	3	Boy	
+Sarosh	Name of An Angel who speaks, Prayer, Hearing, Inspiration, Auspicious messenger	8	Unisex	
+Shazeb	Decorated king	7	Boy	
+Sabil	Path, Way	7	Boy	
+Sarim	Brave, Lion, Sword	6	Boy	
+Suoud	Good luck	8	Boy	
+Sadad	Right thing to do, Lucky hand	11	Boy	
+Sheraz	Loving, Caring, Daring	5	Boy	
+Saboor	Patient, Tolerant, Forbearing, Preserving	7	Boy	
+Sajeel	Decorated	7	Boy	
+Sadaat	Blessing, Honor, Happiness, Bliss, Felicity	1	Boy	
+Simaab	Mercury; Silver	9	Boy	
+Sahel	One who shows the way	9	Boy	
+Sadeem	Haze, Mist	2	Boy	
+Shimah	Cream, Character	4	Boy	
+Sadit	Hard working and strong	8	Boy	
+Sabit	Strong, Well-established	6	Boy	
+Sabur	Patient, Tolerant, Forbearing, Preserving	7	Boy	
+Safar	Travel	9	Boy	
+Sadir	Ordered, Pasted, Appointed	6	Boy	
+saayed	Leader, Lord, Master	1	Boy	
+Samiq	Another name of God, Exalted, Tall	5	Boy	
+Sayid	Leader, Lord, Master	22	Boy	
+Sabat	Firmness, Stability	7	Unisex	
+Saheed	Lucky, Blissful, Witness	6	Boy	
+Sadid	Relevant, Pertinent, Correct, Right	1	Boy	
+Sabuh	Shining, Brilliant	6	Unisex	
+Sorush	Messenger, Angel	1	Boy	
+Sydeek	King	6	Boy	
+Saqif	Proficient, Skilful	7	Boy	
+Sharaf	Honor, Dignity, Nobility, Faithful, God is my judge	8	Boy	
+Shadin	Independent, Fawn, Young deer	1	Unisex	
+Suheb	Love	1	Boy	
+Sadr	Heart	6	Boy	
+Sabr	Patience	4	Boy	
+Sahl	Easy to deal with	4	Boy	
+Shakir	Thankful	3	Boy	
+Sawad	Blackness, Skill	3	Boy	
+Shuayb	A prophets name	22	Boy	
+Shiraz	Sweet	9	Boy	
+Sahab	Shooting star, Cloud, Mercury	4	Unisex	
+Shaban	Islamic month, Eighth month of the Muslim lunar calendar	9	Unisex	
+Sanjar	Prince, Emperor, King, Hawk, Ruler	9	Boy	
+Shihad	Honey	4	Boy	
+Sauban	Two garments	4	Boy	
+Shamis	The Sun, Lord Shiva	6	Boy	
+Sadeed	Relevant, Pertinent, Correct, Right	2	Boy	
+Shafay	Intercessor, Mediator	6	Boy	
+Saleh	Righteous	9	Boy	
+Shukri	Thankfulness	5	Boy	
+Sahm	Arrow, Dart	5	Boy	
+Saduh	Singer, Singing	8	Boy	
+Shafiq	Affectionate, Compassionate, Soft, Pardoning, Tender, Kind	6	Boy	
+Sadra	Chief, Leader, Judge	7	Boy	
+Sadri	Chief or leader or judge, Conqueror	6	Boy	
+Sakher	Conqueror	8	Boy	
+Sakoot	Silence, Peace, Calm	9	Boy	
+Saft	Good habit, Plus point	1	Boy	
+Shoib	Famous, Always victorious, Prosperous, Most liked, Humble	8	Boy	
+Sarab	Mirage, Illusion	5	Boy	
+Sadooq	Honest, Truthful, Sincere	8	Boy	
+Sakhir	He who wins heart	3	Boy	
+Shamas	The Sun, Sunny	7	Boy	
+Shamel	All comprehensive, Complete	22	Boy	
+Shabah	Resembling, Morning, Dawn	3	Boy	
+Shabib	A scholar who wrote about Quran	5	Boy	
+Salif	Previous, Former	2	Boy	
+Sanie	Brilliant, Majestic, Exalted	3	Boy	
+Sifet	Quality	5	Boy	
+Sayf	Sword	6	Boy	
+Shahab	Shooting star, Cloud, Mercury	3	Boy	
+Sayel	Equality	8	Boy	
+Saidah	Fortunate, Auspicious, Lion	6	Unisex	
+Salik	Passable, Unobstructed, Traveler	7	Boy	
+Shabb	Young	5	Boy	
+Sohaib	Reddish, Sandy hair	9	Boy
+Surur	Joy, Happiness	7	Boy	
+Sihah	Faultless	9	Boy	
+Subhah	Beautiful	5	Boy	
+Salaam	Peace	11	Boy	
+Shawqi	Affectionate	5	Boy	
+Sasan	Founder of the sasani dynasty	9	Boy	
+Subah	Flame of a lamp	6	Boy	
+Simak	Arcturus star	8	Boy	
+Siwar	Bracelet, Arm-ring	7	Boy	
+Shibli	Was a great scholar and writer	5	Boy	
+Safuh	Forgiving	1	Boy	
+Smad	Eternal	1	Boy	
+Saqaf	To surpass in skill	8	Boy	
+Salam	Peace	1	Unisex	
+Salar	Leader	6	Boy	
+Sameh	Forgiver	1	Boy	
+Samama	Fragrance, A companion of prophet Muhammad	3	Unisex	
+Salama	Peace, Fem of Salam	11	Unisex	
+Shadah	Pleasant, Happy, Jovial	5	Boy	
+Sangar	Battleground, Fighting point	6	Boy	
+Sakhr	Rock	3	Boy	
+Shamil	All comprehensive, Complete, Peacemaker	8	Boy	
+Saulat	Pomp, Dignity, Majesty	11	Boy	
+Sanad	Support, Prop	3	Unisex	
+Samih	Forgiver	5	Boy	
+Saleet	Strong, Solid, Firm, Sharp	8	Boy	
+Sakhan	Obedient	9	Boy	
+Saqeel	Strong, Tough, Robust	5	Boy	
+Saqer	Falcon	6	Boy	
+Salih	Good, Righteous, Safe, Whole, Flawless	22	Boy	
+Seif	Sword	3	Boy	
+Saqr	Falcon	1	Boy	
+Selani	Free flying Shah sawar	6	Boy	
+Satih	Another name of God, Preacher	3	Boy	
+Selab	Flood	3	Boy	
+Salt	A narrator of Hadith	7	Boy	
+Silah	Arms	22	Boy	
+Salit	Strong, Solid, Firm, Sharp	7	Boy	
+Safir	Ambassador, Handsome, Emissary, Mediator	8	Boy	
+Saleel	Handsome, Water	9	Boy	
+Salman	High, Safe	6	Boy	
+Sahban	Powerful, Strong, Important	9	Boy	
+Sabbagh	Dyer	22	Boy	
+Sadi	Suggest meaning	6	Unisex	
+Sabbar	Extremely patient	7	Boy	
+Sabibah	Water that is poured	6	Boy	
+Sahabah	Companions	22	Boy	
+Subaibah	Lover	9	Boy	
+Subahah	Good looking, Bright like morning	6	Boy	
+Shemin	Suggest meaning	5	Boy	
+Shifal	Suggest meaning	1	Boy	
+Saidul	Suggest meaning	3	Boy	
+Shameej	Suggest meaning	7	Boy	
+Saiub	Suggest meaning	7	Boy	
+Samoon	Suggest meaning	5	Boy

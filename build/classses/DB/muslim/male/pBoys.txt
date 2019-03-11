@@ -1,0 +1,23 @@
+Pir	Saint, Spiritual guide, Wise	7	Boy	
+Poshan	Servant of the God, Lamb of the God	1	Boy	
+Pamir	Mountain range	3	Boy	
+Parang	Gleam of a jewel	3	Boy	
+Perzo	Deserving, Well wishing	8	Boy	
+Parsa	Pious, Pure or chaste or devout or holy or Persian	1	Unisex	
+Puyah	Goal	8	Boy	
+Payam	Message	2	Boy	
+Pounah	Pennyroyal	3	Boy	
+Pason	Uprising	2	Boy	
+Pelabo	Lightning	6	Boy	
+Pinar	Spring	4	Boy	
+Patang	Butterfly, Kite	5	Boy	
+Paryan	Fairy like	3	Boy	
+Paivand	Oath	4	Boy	
+Parinaz	Charming and beautiful	4	Boy	
+Pareesan	Extremely beautiful	7	Boy	
+Parimah	Radiant	3	Boy	
+Parinoush	Eternally beautiful	4	Boy	
+Parnian	Canvas	1	Boy	
+Parishad	Joyous	4	Boy	
+Parigol	Fairy like flower	6	Boy	
+Porushat	Filled with happiness	1	Boy

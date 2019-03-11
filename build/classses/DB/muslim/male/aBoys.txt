@@ -1,0 +1,197 @@
+Aayan	Someone who is religiously inclined, Gift of God	6	Boy	
+Ayan	The pathway to the Sun	5	Boy	
+Arash	Bright, Hero, Truthfulness, Dominion, Crown, Pure, Worshipped, Divine	2	Boy	
+Aafa	Forgiver	9	Boy	
+Ali		Sublime, Lofty, High, Tall, Excellent, Noble	4	Boy	
+Aaki	Autum, Bright	4	Boy	
+Aaban	More clear, 8th Persian month	1	Boy	
+Azb		Sweet	11	Boy	
+Aalee	Sublime, Lofty, High, Tall	6	Boy	
+Aidh	Name of a reciter of the holy Quran	22	Boy	
+Ataa	Gift, Present	5	Boy	
+Aali	Sublime, Lofty, High, Tall, Excellent, Noble	5	Boy	
+Aas		Hope	3	Boy	
+Aariz	Respectable Man, Intelligent	1	Boy	
+Aula	First	8	Boy	
+Ata		Gift, Present	4	Boy	
+Arsh	Bright, Hero, Truthfulness, Dominion, Crown, Pure, Worshipped, Divine	1	Boy	
+Aman	Peace	11	Boy	
+Aakif	Attached, Intent	1	Boy	
+Aadil	Honorable judge, Justice, Righteous	9	Boy	
+Areen	Full of Joy, Mountain strength, Ireland, Peace, Sunray	7	Boy	
+Aadab	Respect, Hope and need	9	Boy	
+Aamir	Ruler, Prince, Rich, Prosperous	6	Boy	
+Arish	First Ray of Sun, Sky	1	Boy	
+Aasim	Limitless, Protecter	7	Boy	
+Abaan	More clear, 8th Persian month	1	Boy	
+Aaraiz	Rain bearing cloud	11	Boy	
+Aazan	Call for the prayer	7	Boy	
+Aasif	Bold, Courageous, An able minister, Forgiveness	9	Boy	
+Aaqib	Another name of prophet Muhammad, Follower	3	Boy	
+Aatif	United, Joined, Together	1	Boy	
+Ayaaz	Respected and enduring, A sincere slave of Mahmood the king once upon a time	9	Boy	
+Aiman	Faith, Fearless	2	Boy	
+Aarib	Handsome, Healthy	22	Boy	
+Aadhil	Honorable judge, Justice, Righteous	8	Boy	
+Ashif	Bold, Courageous, An able minister, Forgiveness	7	Boy	
+Abir	Fragrance, Strong, Auspicious red powder traditionally applied during the festival of holi	3	Boy	
+Ainul	Eyes	3	Boy	
+Aarzoo	Wish, Hope, Love	4	Boy	
+Ashaz	One in a million, Name of a sahabi during the time of prophet	1	Boy	
+Aidan	Help, Intelligent	2	Boy	
+Anas	Undivided, Indestructible, The Sky, Brahman or the supreme spirit	8	Boy	
+Ashar	Fourth prayer of the day, One who has wisdom	2	Boy	
+Araf	Pilgrimage site 25 km from city mecca	8	Boy	
+Atik	Ancient, Noble	5	Boy	
+Atif	United, Joined, Together	9	Boy	
+Aadam	The first prophet of Allah	11	Boy	
+Ahad	Allah, Another name of God	5	Boy	
+Aashir	Living, Captivating, Fascinating	11	Boy	
+Aban	More clear	9	Boy	
+Ayaz	Respected and enduring, A sincere slave of Mahmood the king once upon a time	8	Boy	
+Aabid	Worshipper of God	8	Boy	
+Anees	Close friend, Good company, Smart one, Companion, Supreme	8	Boy	
+Aamil	Invaluable, Inaccessible, Exalted, Doer	9	Boy	
+Azib	Sweet	2	Boy	
+Adil	Judge, Honest, Upright, Justice, Sincere, Just	8	Boy	
+Abid	Worshipper of God	7	Boy	
+Aashiq	Adorer, Lover, Suitor	1	Boy	
+Aijaz	Miracle, Wondrous nature	2	Boy	
+Alif	The first character in hijaiyah	1	Boy	
+Aazim	Famous, On the top, Heights, Greatest, Determined	5	Boy	
+Amil	Invaluable, Inaccessible, Exalted, Doer	8	Boy	
+Amir	Ruler, Prince, Rich, Prosperous	5	Boy	
+Afeef	Chaste, Modest	5	Boy	
+Azaan	Call for the prayer	7	Boy	
+Adab	Respect, Hope and need	8	Boy	
+Asif	Bold, Courageous, An able minister, Forgiveness	8	Boy	
+Amaan	Peace	3	Boy	
+Aashif	Bold, Courageous, An able minister, Forgiveness	8	Boy	
+Adut	Gift of God	1	Boy	
+Areeb	Skillful, Adroit	22	Boy	
+Azam	Great and mighty	5	Boy	
+Anjum	Stars	5	Boy	
+Aaqil	Wise, Intelligent, Thoughtful, Sensible	22	Boy	
+Aarzu	Wish, Hope, Love	22	Boy	
+Abed	Servant of God, Worshipper	3	Boy	
+Amal	Bright, Hope, Pure, Hardworking, Optimistic, Expectation, Brillinat, Another name for Narayana, Clean	9	Boy	
+Ansar	The first people who converted to the religion of Islam were the people of Ansar	8	Boy	
+Arif	Acquainted, Knowledgeable	7	Boy	
+Ameer	Ruler, Prince, Rich, Prosperous	6	Boy	
+Ariz	Respectable Man, Intelligent	9	Boy	
+Aizaz	quick-minded, versatile, and very expressive	9	Boy	
+Aatiq	Ancient, Noble	3	Boy	
+Ashim	Limitless shank, Boundless, Protector	5	Boy	
+Ashad	Lion, Lord of mount Kailash or Lord Shiva	6	Boy	
+Asher	Wise, Knowledgeable	6	Boy	
+Aneeq	Valuable, Neat, Elegant, Smart	6	Boy	
+Aalim	Knowledge person, Wise, Sch, Olarly, Omniscient, Learned, Religious scholar	9	Boy	
+Azaz	Strong one	9	Boy	
+Anis	Close friend, Good company, Smart one, Companion, Supreme	7	Boy	
+Azeem	Famous, On the top, Heights, Greatest	5	Boy	
+Amin	Faithful, Trustworthy, Honest	1	Boy	
+Asad	Lion, Lord of mount Kailash or Lord Shiva	7	Boy	
+Aasir	Captivating, Fascinating, Devout, Active	3	Boy	
+Adeem	Rare, Great	1	Boy	
+Ajal	Period	6	Boy	
+Adeeb	A literary person, Cultured, Civilized	8	Boy	
+Absi	Abdullah ibn-musa	4	Boy	
+Ayub	A prophet of Allah swt	4	Boy	
+Awad	Reward, Compensation	11	Boy
+Arafa	Name of mountain close to mecca	9	Boy	
+Aziz	Beloved, Friend, Comrade, Dear	8	Unisex	
+Aauf	Awf guest, Fragrance, Lion	11	Boy	
+Arab	Peaceful, Sound, Shout	4	Boy	
+Aleem	Knowledge person, Wise, Scholarly, Omniscient, Learned	9	Boy	
+Adib	A literary person, Cultured, Civilized	7	Boy	
+Ayoob	A prophet of Allah swt	22	Boy	
+Aasaal	Evening time, Real, Pure	8	Boy	
+Asil	Noble	5	Boy	
+Abeel	Healthy, Vanity, Breath, Breathing	7	Boy	
+Aaus	Name of a tree	6	Boy	
+Asfa	Tanned Sun burned	9	Unisex	
+Ayish	Alive	8	Boy	
+Arad	Name of An Angel	6	Boy	
+Aqib	Another name of prophet Muhammad, Follower	2	Boy	
+Adiy	A companion of the prophet, Also the name of the son of Hatim tiay known for his generosity, Also the son of Thabit had this name	3	Boy	
+Aizat	Sweetness	3	Boy	
+Aqeel	Wise, Intelligent, Thoughtful, Sensible	22	Boy	
+Adl	Justice	8	Boy	
+Ahab	Strong	3	Boy	
+Aazad	Free, Independent	6	Boy	
+Adheem	Rare, Great	9	Boy	
+Alvi	Fan of Hazrat Ali	8	Boy	
+Afaaq	The place where earth & Sky Meet	8	Boy	
+Amaar	One who prays 5 times and fasts, Forever, Immortal	7	Boy	
+Abeed	Worshipper of God	8	Boy	
+Azad	Free, Independent	5	Boy	
+Akif	Attached, Intent	9	Boy	
+Aniq	Valuable, Neat, Elegant, Smart	5	Boy	
+Aqil	Wise, Intelligent, Thoughtful, Sensible	3	Boy	
+Abd		Servant, Devotee, Slave	7	Boy	
+Athar	Neat, Clean	3	Boy	
+Araz	Commodities	1	Boy	
+Aref	Wise, Intelligent	3	Boy	
+Azim	Famous, On the top, Heights, Greatest, Determined	22	Boy	
+Arz		Mountain	9	Boy	
+Abudah	Devoted to God	1	Boy	
+Asar	Fourth prayer of the day, One who has wisdom	3	Boy	
+Aram	Quiet	6	Unisex	
+Akeem	Wise	8	Boy	
+Alam	Universe, The whole world	9	Boy	
+Afif	Chaste, Modest	22	Boy	
+Araabi	Well spoken	5	Boy	
+Amer	Ruler, Prince, Rich, Prosperous	1	Boy	
+Amam	Safety, Protection	1	Boy	
+Azari	Maidens	1	Boy	
+Alim	Knowledge person, Wise, Sch, Olarly, Omniscient, Learned, Religious scholar	8	Boy	
+Anjam	Stars	3	Boy	
+Afiq	Honest	6	Boy	
+Azeeb	Amazing	3	Boy	
+Ayiq	Larkspur	7	Boy	
+Ajeeb	Amazing	5	Boy	
+Anbas	Lion	1	Boy	
+Ajam	Great and mighty	7	Boy	
+Alawi	Descendant of Hazrat Ali	1	Boy	
+Akhas	A narrator of Hadith	4	Boy	
+Ateeb	Very pious	6	Boy	
+Ajab	Wonder	5	Boy	
+Ajer	Reward	7	Boy	
+Atiq	Ancient, Noble	2	Boy	
+Asir	Captivating, Fascinating, Devout, Active	2	Boy	
+Azoom	Determined	7	Boy	
+Arar	Lent Lily	2	Boy	
+Aseed	A narrator of Hadith	7	Boy	
+A'rab	Bedoin	4	Boy	
+Arhan	Ruler, Tirthankara, Worship, Homage, Respect, Revered	6	Boy	
+Arham	Merciful	5	Boy	
+Ahsan	Mercy	7	Boy	
+Aayizah	Replacement	8	Boy	
+Abwan	One whose face glows	5	Boy	
+Arban	Fluent	9	Boy	
+Azban	Fresh	8	Boy	
+Aqlan	Intelligent	9	Boy	
+Abyaz	White, Pure	1	Boy	
+Abudain	Devoted servant of God	7	Boy	
+Adlan	Fair	5	Boy	
+Adeebah	One who has excellent manners	8	Boy	
+Awarif	Intelligent	4	Boy	
+Azzat	Gazelle	2	Boy	
+Adniyyan	Inhabitant	3	Boy	
+Aburah	Perfume	6	Boy	
+Adalah	Justice	9	Boy	
+Abidian	Worshipers	4	Boy	
+Adlah	Fairness	8	Boy	
+Atubah	Soft, Delicate	8	Boy	
+Atayat	Gifts	5	Boy	
+Attaf	Compassionate	3	Boy	
+Ariqaat	Noble	4	Boy	
+Awayed	Habit	5	Boy	
+Allaam	Knowledgeable	4	Boy	
+Azeebah	Sweet, A narrator of Hadith	3	Boy	
+Atafah	Affectionate	1	Boy	
+Allamah	Endowed with great knowledge	3	Boy	
+Aazif	Suggest meaning	7	Boy	
+Aayid	Suggest meaning	22	Boy	
+Aizad	Suggest meaning	5	Boy	
+Adawi	Suggest meaning (Grandson of sayyindina Umer)	2	Boy

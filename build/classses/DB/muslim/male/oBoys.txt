@@ -1,0 +1,17 @@
+Ons	Gladness	3	Boy	
+Oula	First	4	Boy	
+Omair	Long living, Problem solver	11	Boy	
+Osaf	A well dancer	5	Boy	
+Owais	A companion of the prophet (Saw)	22	Boy	
+Omeir	Long living, Problem solver	6	Boy	
+Ozhan	Thrower	1	Boy	
+Obaid	Small slave	22	Boy	
+Omar	Elevated, An Era, Long-lived	2	Boy	
+Owaisi	Brave, Gifted talented	4	Boy	
+Osama	Description of a lion, Brave	4	Boy	
+Onsi	One who brings calm and gladness to the heart	3	Boy	
+Omid	Hope	5	Boy	
+Omeed	Hope	6	Boy	
+Olka	Homeland	3	Boy	
+Oraibia	Keen	1	Boy	
+Onshuda	Chant	1	Boy
