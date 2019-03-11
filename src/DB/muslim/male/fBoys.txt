@@ -1,0 +1,125 @@
+Faiz	Victorious, Gain, Abundance, Affluence, Liberality, Favour, Triumphant	6	Boy	
+Fadi	The redeemer	2	Boy	
+Faeem	Famed	3	Boy	
+Faaz	Victorious, Successful	7	Boy	
+Fidaa	Redemption or sacrifice	3	Boy	
+Faaiz	Victorious, Gain, Abundance, Affluence, Liberality, Favour, Triumphant	7	Boy	
+Faizi	Endowed with superabundance	6	Boy	
+Fazan	Ruler	3	Boy	
+Faik	Surpassing, Excellent, Leader	9	Boy	
+Faid	Benefit, Advantage, Gain	2	Boy	
+Faiq	Surpassing, Excellent, Leader	6	Boy	
+Fathi	Conqueror, Warrior	8	Unisex	
+Faeq	Surpassing, Excellent	2	Boy	
+Faoz	Success, Victory, Advantage	3	Boy	
+Fari	Tall, Towering, Lofty	7	Boy	
+Fawzi	Triumphant, Victorious	11	Unisex	
+Fawzy	Triumphant, Victorious	9	Boy	
+Fath	Victory	8	Boy	
+Faizan	Favorite, Beneficence, Generosity, Abundance, Benefit	3	Boy	
+Fayaz	Kind, Gracious, Extremely generous	5	Boy	
+Firoz	Successful, Turquoise, Victorious, to vanquish	11	Boy	
+Faran	Happy, Advances	22	Boy	
+Fahad	Lynx, Panther	2	Boy	
+Faraan	Happy, Advances	5	Boy	
+Faiyaz	Successful, Artistic	5	Boy	
+Faraz	Comfort, Relief, Ease, Repose	7	Boy	
+Firoj	Successful, Turquoise, Gem stone	4	Boy	
+Faheel	Intelligent	1	Boy	
+Faisal	Decisive	3	Boy	
+Farhat	Happiness, Delight, Majesty, Decency	9	Boy	
+Fahim	Intelligent, Beautiful	1	Boy	
+Faabis	Happy	2	Boy	
+Faheem	Intelligent, Beautiful	11	Boy	
+Farid	Unique, Matchless, Precious	11	Boy	
+Fareed	Unique, Matchless, Precious	3	Boy	
+Feroz	Successful, Turquoise, Victorious, To vanquish	7	Boy	
+Fakhir	Proud, Excellent	8	Boy	
+Fawaz	Successful	3	Boy	
+Fadl	Outstanding, Honorable	5	Boy	
+Farukh	One who distinguishes truth from falsehood, Power of discrimination	11	Boy	
+Ferin	West wind	7	Boy	
+Farooq	One who distinguishes truth from falsehood	9	Boy	
+Farin	Adventurous	3	Boy	
+Fayis	The winner	6	Boy	
+Faris	Horseman, Knight, Intelligent	8	Boy	
+Fakhry	Honorary, Glorious, Proud	6	Boy	
+Farook	One who distinguishes truth from falsehood, Power of discrimination	3	Boy	
+Fatik	Crystal	2	Boy	
+Firaas	Knight, Perspicacious	9	Boy	
+Falak	Break of dawn, The Sky, Breeze	4	Boy	
+Fuad	Heart	5	Boy	
+Fateen	Captivating, Clever, Smart, Fascinating	6	Boy	
+Faaris	Horseman, Knight, Intelligent	9	Boy	
+Fariz	Promising, Determined	6	Boy	
+Faruk	One who distinguishes truth from falsehood, Power of discrimination	3	Boy	
+Faihan	Fragant	3	Boy	
+Fizan	Popularity	11	Boy	
+Fadhil	Honorable, Outstanding	4	Boy	
+Fawad	Heart	8	Boy	
+Fazal	Accomplished, Bountiful grace	1	Boy	
+Fariq	Another name of God, Separating, Eminent	6	Boy	
+Faraj	Comfort, Relief, Ease, Repose	9	Boy	
+Fayaaz	Kind, Gracious, Extremely generous	6	Boy	
+Fayij	Victor	6	Boy	
+Falah	Success	1	Boy	
+Fadil	Honorable, Outstanding	5	Boy	
+Farees	Horseman, Knight, Intelligent	9	Boy	
+Fuzail	Diminutive of Fazl	3	Unisex	
+Fahd	Lynx	1	Boy	
+Fahdi	Strong	1	Boy	
+Fajer	Morning	22	Boy	
+Farj	Excellent, Eminent in learning	8	Boy	
+Fayiz	Victor	4	Boy	
+Faseeh	Eloquent, Fluent, Well-spoken	8	Boy	
+Fasikh	Successful, Bounty, Bliss	9	Boy	
+Fajr	Dawn, Rise, Beginning, Start	8	Unisex	
+Fahmi	Intelligent, Discerning	1	Boy	
+Faghir	A flower name	4	Boy	
+Farih	Happy, Delight	6	Boy	
+Fasih	Eloquent, Fluent, Well-spoken	7	Boy	
+Faateh	Conqueror, Victorious, Triumph	5	Boy	
+Fuwad	Heart	1	Boy	
+Fazli	Kind, Bountiful, Graceful	9	Boy	
+Fakeeh	Cheerful, Legal expert, One who recites the Quran	9	Boy	
+Fard	Another name of God, Unequalled, Unique	2	Boy	
+Fatan	Intelligent, Sagacious	6	Boy	
+Falooh	Winner	3	Boy	
+Fihr	Stone pestle	5	Boy	
+Falih	Fortunate, Lucky, Successful	9	Boy	
+Fakhr	Pride, Something to feel proud about	8	Unisex	
+Faqeed	Rare, Special	11	Boy	
+Fujai	Companion of prophet Muhammad	2	Boy	
+Faliq	One that divides into two, Creator	9	Boy	
+Fudail	Learned, Scholar	8	Boy	
+Fakhri	Honorary, Glorious, Proud	8	Unisex	
+Faqeeh	Jurist, Scholar of religious laws, Wise, Scholar in fight (Islam)	6	Boy	
+Faihami	Understanding	11	Boy	
+Fakih	Cheerful, Legal expert, One who recites the Quran	8	Boy	
+Fattah	One who attains victory	2	Boy	
+Fayek	Surpassing, Excellent, Superior, Outstanding	3	Boy
+Fayd	Benefit, Advantage, Gain	9	Boy	
+Faleeh	Fortunate, Lucky, Successful	1	Boy	
+Furud	Singularity	7	Boy	
+Faqih	Jurist, Scholar of religious laws, Wise, Scholar in fight (Islam)	5	Boy	
+Firas	Knight, Perspicacious	8	Boy	
+Futuh	Victories, Conquests	22	Boy	
+Fatin	Captivating, Clever, Smart, Fascinating	5	Unisex	
+Fatih	One who eases difficulties	8	Boy	
+Firuz	Successful, Turquoise, Gem stone	8	Boy	
+Fikri	Thought, Ideas	8	Boy	
+Faruq	One who distinguishes truth from falsehood	9	Boy	
+Fikhar	Honor, Pride, Glory	8	Boy	
+Faqir	Poor, Needy	6	Boy	
+Fitah	Right direction	8	Boy	
+Fazl	Favor, Grace, Kindness	9	Boy	
+Fazil	An accomplished person	9	Boy	
+Farhad	Happiness	11	Boy	
+Faizulah	Plenty and bounty from God	3	Boy	
+Fahmun	Intelligent	9	Boy	
+Fahdah	Leopard	1	Boy	
+Fuhaid	Little leopard	4	Boy	
+Fahimat	Understanding	4	Boy	
+Fakhruddin	Pride of the faith	6	Boy	
+Fahmat	Comprehension	22	Boy	
+Febin	Suggest meaning	9	Boy

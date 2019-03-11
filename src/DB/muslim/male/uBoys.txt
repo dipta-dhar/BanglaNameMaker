@@ -1,0 +1,32 @@
+Ula	High rank, Prestige, Glory	7	Unisex	
+Umair	Second Khalifah, Intelligent	8	Boy	
+Ujala	One who radiates the light, Bright	9	Boy	
+Uzair	Precious, Name of a prophet	3	Boy	
+Umar	Second Khalifah, Intelligent	8	Boy	
+Ubay	Old Arabic name	4	Boy	
+Usama	Lion	1	Boy	
+Unais	Love, Affection	1	Boy	
+Uwais	A companion of the prophet (Saw)	1	Boy	
+Uzaib	Fresh	5	Boy	
+Ubaid	Worshipper, Faithful	1	Boy	
+Usaim	Lion cub	9	Boy	
+Urfee	Name of a popular poet	1	Boy	
+Urooj	Ascension, Mounting rising	7	Unisex	
+Umer	Life name of the second caliph	3	Boy	
+Uraif	Good scent	1	Boy	
+Uwaim	Name of a Sahabi who Took Part in the Battle of Badr	22	Boy	
+Unal	Fighter, Strong spirit	3	Boy	
+Uqaab	Eagle	6	Boy	
+Ubad	Worshipers	1	Boy	
+Uqba	Companion of the prophet Muhammad	5	Boy	
+Ujab	Wonder	7	Boy	
+Utaib	Gentleness	8	Boy	
+Utaiq	Goodness	5	Boy	
+Uthal	Name of a mountain	8	Boy	
+Usman	Trust worthy friend	5	Boy	
+Uzrat	Virginity	5	Boy	
+Usmanah	Baby snake	5	Boy	
+Utaif	Compassionate	3	Boy	
+Uhaidah	Promise	7	Boy	
+Utairah	Fragrant	6	Boy	
+Usraat	Refuge	8	Boy

@@ -1,0 +1,72 @@
+Wadee	Calm, Peaceful	2	Boy	
+Wali	Governor, Protector	9	Boy	
+Wadi	Calm, Peaceful	1	Unisex	
+Wasi	Capacious, Wide, Ample, One, Broad-minded, Liberal, Learn, All embracing	7	Boy	
+Waali	Governor, Protector	1	Boy	
+Wafi	Faithful, Loyal	3	Boy	
+Wad	Love	1	Unisex	
+Wail	Returnee	9	Boy	
+Wakee	Agent, Representative	9	Boy	
+Waf	Faithful	3	Boy	
+Wafeeq	Successful	3	Boy	
+Waahid	Single, Exclusively, Unequalled, Unique, One of its kind, Peerless	1	Boy	
+Wahid	Single, Exclusively, Unequalled, Unique, One of its kind, Peerless	9	Boy	
+Waleed	New-born child	5	Boy	
+Wasim	Graceful, Good looking	2	Boy	
+Wajeeh	Noble, Honored, Well-esteem	7	Boy	
+Waseef	Full of qualities, Expansionist, Vast, Spacious, Man of qualities	5	Boy	
+Waseem	Graceful, Good looking	3	Boy	
+Wais	King	7	Boy	
+Wajeed	Finder, Lover, Loving	3	Boy	
+Wajid	Finder, Lover, Loving	2	Boy	
+Wahaj	Very sparkling, Very bright	7	Boy	
+Wasfi	Eulogize, Praise highly	22	Boy	
+Wahab	Kind hearted	8	Boy	
+Wafiq	Successful	11	Boy	
+Waris	Heir, Inheritor, Successor	7	Boy	
+Wadaan	Prosperous	8	Boy	
+Wasaf	Full of qualities, Expansionist, Vast, Spacious, Man of qualities	5	Boy	
+Wasey	Capacious, Wide, Ample, One, Broad-minded, Liberal, Learn, All embracing	1	Boy	
+Wasif	Full of qualities, Expansionist, Vast, Spacious, Man of qualities	22	Boy	
+Wasay	Unlimited, All encompassing, Boundless	6	Boy	
+Waiz	Admonisher, Preacher	5	Boy	
+Wadood	Friend, Companion, Beloved, Loving	8	Boy	
+Wazir	Minister	5	Boy	
+Waheed	Single, Exclusively, Unequalled, Unique, One of its kind, Peerless	1	Boy	
+Wasil	Considerate, Inseparable friend	1	Boy	
+Wazin	Collator	1	Boy	
+Wakil	Agent, Representative, Lawyer	2	Boy	
+Warid	Messenger, Partner, Cloud	1	Boy	
+Wilan	Friendship, Affection	5	Boy	
+Waqif	Acquainted, Aware	11	Boy	
+Wisam	Badge, Logo, Like coat of arms	2	Unisex	
+Wahib	Liberal donor	7	Boy	
+Wajahah	Glory	7	Boy	
+Waasey	Capacious, Wide, Ample, One, Broad-minded, Liberal, Learn, All embracing	2	Boy	
+Waqid	Companion of the prophet (Pbuh)	9	Boy	
+Warqa	To do with paper, Leaf	6	Boy	
+Wasam	Medal, Prize, Honor	3	Boy	
+Waqaar	Self-respect, Majesty, Veneration	7	Boy	
+Wakeel	Agent, Representative, Lawyer	3	Boy	
+Waqar	Self-respect, Majesty, Veneration	6	Unisex	
+Widadi	Loving	5	Boy	
+Watheq	Firm, Reliable, Confident	11	Boy	
+Walid	New-born child	22	Boy	
+Wahb	To give, To donate, Giving	7	Boy	
+Wajd	State of being single	11	Unisex	
+Ward	Blossoms, Flowers	1	Boy	
+Wajdi	Passion	2	Boy	
+Warith	An heir, A master, A Lord, Supreme inheritor	7	Boy	
+Waelah	Clan	5	Boy	
+Walif	Befriending	6	Boy	
+Wafai	Faithful, Loyal	22	Boy	
+Wajih	Noble, Honored, Well-esteem	6	Boy	
+Waqf	Given in a trust	2	Boy	
+Wamaq	Lover, Paramour	1	Boy	
+Wasiq	Solid, Strong, Secure, Confident, Sure, Certain	6	Boy	
+Wadid	Favorable, Devoted, Fond	5	Boy	
+Waseeq	Solid, Strong, Secure, Confident, Sure, Certain	7	Boy	
+Wahdan	Unique	6	Boy	
+Wajeezah	One who speaks briefly but eloquently	7	Boy	
+Wadiyah	Valley	8	Boy	
+Wathab	One who increases in greatness	1	Boy

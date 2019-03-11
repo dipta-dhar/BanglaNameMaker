@@ -1,0 +1,43 @@
+Qais	Firm, Lover	1	Boy	
+Qawee	Strong, Powerful, Firm, Mighty. one of the names of Allah	6	Boy	
+Qaid	Leader, Commander	22	Boy	
+Qawi	Strong, Powerful, Firm, Mighty. one of the names of Allah	5	Boy	
+Qaim	Rising, Standing, Existing	22	Boy	
+Qani	Content, Satisfied	5	Boy	
+Qazi	Judge, Justice	8	Boy	
+Qadi	Judge	22	Boy	
+Qutub	Tall	9	Boy	
+Quamar	Prince, The Moon	8	Boy	
+Qasim	Distributor, Divider	5	Boy	
+Qays	Firm, Lover	8	Boy	
+Qasid	Messenger	5	Boy	
+Qamar	The Moon	5	Unisex	
+Qaadir	Able, Powerful	5	Boy	
+Qadar	Divine destiny, Powerful	5	Boy	
+Qaanit	Satisfied, Contented, Obedient, Submissive, Humble	8	Boy	
+Qahir	Courageous, Brave, Conqueror, Destructor	8	Boy	
+Qiwam	Support, Prop	9	Boy	
+Qanit	Satisfied, Contented, Obedient, Submissive, Humble	7	Boy	
+Qazafi	One who lives in vast forest	6	Boy	
+Qabeel	Able (Son of Sayyidina Aadam)	6	Boy	
+Qutb	Celebrity, Personality	6	Boy	
+Qutuz	Type of Rock	6	Boy	
+Qadeer	Able, Powerful	5	Boy	
+Qudoos	Most holy	1	Boy	
+Qadim	Ancient	8	Boy	
+Qudwa	Model, Example	3	Boy	
+Qusta	He was Ibn luqa he translate	6	Boy	
+Qadir	Able, Powerful	4	Boy	
+Qareeb	Near	3	Boy	
+Qudsi	Holy, Sacred	7	Boy	
+Qabool	Accepted, Accredited	8	Unisex	
+Qaseem	Distributor, Divider	6	Boy	
+Quds	Holiness, Sanctity	7	Boy	
+Qindil	Oil lamp, Light	11	Boy	
+Qusay	Distant	2	Boy	
+Qunbar	Turnstone	1	Boy	
+Qasif	Discover	7	Boy	
+Quasim	Old generation	8	Boy	
+Qumrah	Moonlight	6	Boy	
+Qamrun	The Moon	3	Boy	
+Qamirah	Moonlit	4	Boy

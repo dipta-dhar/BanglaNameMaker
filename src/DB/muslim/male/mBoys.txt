@@ -1,0 +1,147 @@
+Maahir	Expert, Brave	5	Boy	
+Maaz	Friend of prophet Muhammad	5	Boy	
+Miran	Princely, Princes	1	Boy	
+Maad	An old Arabian tribes name	1	Boy	
+Moosa	A prophets name	9	Boy	
+Mutaa	Obeyed, Pure or like a Pearl	11	Boy	
+Mutee	Obedient, Giver	1	Boy	
+Maali	Noble, Sublime, Excellency	9	Unisex	
+Musa	A prophets name	9	Boy	
+Mika	Cool, Sweet, Intelligent	7	Boy	
+Muta	Obeyed, Pure or like a Pearl	1	Boy	
+Muti	Obedient, Giver	9	Boy	
+Mahin	The earth, Fine or thin texture	9	Boy	
+Maazin	Proper name, Cloud that carries rain	1	Boy	
+Meezan	Balance, Scales	1	Boy	
+Moiz	Respectful, One who gives protection	9	Boy	
+Meesam	Smiling, Happy	2	Boy	
+Mohid	The one who believes in oneness of Allah almighty	4	Boy	
+Mafeed	None	7	Boy	
+Mirza	A Prince, Loved	4	Boy	
+Musheer	Advisor	8	Boy	
+Maheer	Expert, Brave	5	Boy	
+Makeen	Strong, Firm	22	Boy	
+Mahdy	Guided to the right path, Rightly guided	6	Boy	
+Muneer	Brilliant, Shining, Moons light, Lamp	4	Boy	
+Muhib	Noble, Respected	8	Boy	
+Mehdi	A flower	3	Boy	
+Moin	Fountain, Spring	6	Boy	
+Majd	Glory	1	Boy	
+Maheen	The earth, Fine or thin texture	1	Unisex	
+Mahid	Another name of God, One who preaches	8	Boy	
+Momin	One who believes in God	1	Boy	
+Mufeed	Useful, Helpful	9	Boy	
+Mujeeb	Responsive	2	Boy	
+Mizan	Balance, Scales	9	Boy	
+Muaath	Protected	1	Boy	
+Mahib	Another name of God, Lion, Brave	6	Boy	
+Munaf	Inconsistent with contradictory	1	Boy	
+Masoud	Happy, Lucky	1	Boy	
+Meerab	Paradise flower	8	Boy	
+Muayid	Supported	1	Boy	
+Maalik	Master, Lord, Chief, Leader, Reigning, Ruling, Gardener, Owner, Husband	2	Boy	
+Mahad	Great, Nice	9	Boy	
+Mikail	Name of allahs Angel, Name of An Angel michael	1	Boy	
+Musad	Unfettered camel	4	Boy	
+Mufiz	Giver	3	Boy	
+Manaf	Abd manaaf	8	Boy	
+Mahaz	The place of war, A noble descent, From a noble family	22	Boy	
+Miyaz	Distinguished, Preferred	11	Boy	
+Matin	Strong, Powerful, Solid, Of	3	Boy	
+Mahd	The guided one	8	Boy	
+Maseeh	One who is blessed with piety from the cradle to the grave. the messiah Jesus, A prophet	6	Boy	
+Muttee	Obedient	3	Boy	
+Musab	Old Arabic name	11	Boy	
+Muaz	Protected	7	Boy	
+Mahul	Forbearance	1	Boy	
+Manhal	Fountains	22	Boy	
+Madih	Praised, Commendable	8	Boy	
+Monir	Shining	6	Boy	
+Mahdi	Guided to the right path, Rightly guided	8	Boy	
+Mamoon	Secure, Fearless, Trustworthy, Trusted	8	Boy	
+Mazid	Increase, Excess, More	8	Boy	
+Maqil	Intelligent	7	Boy	
+Malih	Handsome	7	Boy	
+Masoom	Innocent, Sinless	22	Boy	
+Madhat	Praise, Lauding	2	Unisex	
+Miftah	Key	3	Boy	
+Madani	Civilized	6	Boy	
+Mahal	Forbearing	8	Boy	
+Mabad	A place of worship	3	Boy	
+Manat	Manah	4	Boy	
+Maroof	Known, Accepted	5	Boy	
+Mamun	Secure, Fearless, Trustworthy, Trusted	8	Boy	
+Mahud	Another name of God, One who is worshipped	2	Boy	
+Maleek	Master, Lord, Chief, Leader, Reigning, Ruling	2	Boy	
+Maimun	Fortunate, Blessed, Auspicious, Prosperous	8	Boy	
+Maram	Wish, Desire, Aspiration	1	Unisex	
+Muad	Protected, Name of a companion	3	Boy	
+Malik	Master, Lord, Chief, Leader, Reigning, Ruling, Gardener, Owner, Husband	1	Boy	
+Mashal	Light, Bright	9	Unisex	
+Malang	Mystic	3	Boy	
+Masun	Safeguarded, Well-protected	5	Boy	
+Mueez	One who gives protection, The giver of might and glory	7	Boy	
+Maluf	Familiar, Popular	8	Boy	
+Muneeb	One who turns in repentance, Repentant	6	Boy	
+Maruf	Known, Accepted	5	Boy	
+Maisur	Easy, Successful, Fortunate	9	Boy	
+Muheet	Embraces all round, Encompassing, Ocean	9	Boy	
+Muhit	Embraces all round, Encompassing, Ocean	8	Boy	
+Marid	Rebellious	9	Boy	
+Makki	Pertaining to mecca	9	Boy	
+Mubin	Clear, Evident	5	Unisex	
+Makin	Strong, Firm	3	Boy	
+Mistah	Instrument to level something	7	Boy	
+Muhab	Dignified	9	Boy	
+Musaid	Helper	22	Boy	
+Mobeen	Sensitive	9	Boy	
+Munir	Brilliant, Shining, Moons light, Lamp	3	Boy	
+Museeb	Apple in Persian also means great warrior	2	Boy	
+Munif	Exalted, Excellent	9	Boy
+Masood	Fortunate, Happy, Lucky	22	Boy	
+Majdi	Glorious, Praiseworthy	1	Boy	
+Maqeem	Resident, Residing, Staying	9	Boy	
+Munib	One who turns in repentance, Repentant	5	Boy	
+Munis	With God, Lord Buddha, Chief of army, Chief of the sages	22	Boy	
+Milad	Birth, Birthday	3	Boy	
+Masud	Fortunate, Happy, Lucky	4	Boy	
+Masir	Destiny, Goal	6	Boy	
+Mufti	Jurist	6	Boy	
+Mamoor	Inhabited, Civilized	3	Boy	
+Munim	Generous	7	Boy	
+Mekka	Name of a holy city	5	Boy	
+Mawla	Helper, Protector	5	Boy	
+Mahja	Place to sleep, Quarters, Lodgings	6	Boy	
+Muadh	Protected, Name of a companion	2	Boy	
+Mehd	Instructor, Haadi	3	Boy	
+Mushir	Advisor	7	Boy	
+Morad	Desire, Wish	6	Boy	
+Moutir	One who prays the witr prayer	6	Boy	
+Muhdee	One who presents	11	Boy	
+Mudar	An Arabian tribe	3	Boy	
+Mueen	Supporter, Helper, One who helps	22	Boy	
+Mubid	Intellectual	22	Boy	
+Mufaad	Profit, Interest	1	Boy	
+Muin	Supporter, Helper, One who helps	3	Boy	
+Motaz	Proud	3	Boy	
+Misaq	Agreement, Covenant	5	Boy	
+Mughis	Helper, Assistant	5	Boy	
+Mujab	One whose prayers were answered	11	Boy	
+Moujid	Creator	9	Boy	
+Mimar	Mason, Architect	9	Boy	
+Mubeen	Clear, Evident	6	Boy	
+Mughni	Enriched	9	Boy	
+Mumin	Believer	7	Boy	
+Muiz	One who gives protection, The giver of might and glory	6	Boy	
+Muhair	Skilled	7	Boy	
+Manzar	View, Sight	1	Boy	
+Mihlal	Happy	1	Boy	
+Mahjan	Blooming	2	Boy	
+Mahulah	Gorgeous	1	Boy	
+Mahjah	Blood	5	Boy	
+Muhallil	One who pronounces the testimony of faith	7	Boy	
+Muhlah	Leniency	9	Boy	
+Muhdah	Plain	1	Boy	
+Muhjid	One who puts someone to sleep	11	Boy	
+Muzaif	Suggest meaning	4	Boy	
+Meesum	Suggest meaning	22	Boy

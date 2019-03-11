@@ -1,0 +1,106 @@
+Keyaan	Crown, King, A form of keon	3	Boy	
+Kaif	State, Condition, Mood	9	Unisex	
+Khairy	Charitable, Beneficent	9	Boy	
+Kia	King, Protector, Defender	3	Boy	
+Kab	Fame, Honor, High rank	5	Boy	
+Kaifi	Jolly; Tipsy; Intoxicated; Lusty	9	Boy	
+Khog	Sweet, Cute	5	Boy	
+Khair	Good, Blessing, Boon, Wealth	11	Unisex	
+Kashish	Lord of Kashi, Another name for Lord Shiva, Attraction	3	Unisex	
+Khashi	Pious, Devout	11	Boy	
+Khak	Sand, Dirt, Used to denote	4	Boy	
+Khan	Leader, Ruler, Ameer	7	Boy	
+Khayr	Good, Blessing, Boon, Wealth	9	Unisex	
+Khayri	Charitable, Beneficent	9	Boy	
+Kazi	Judge, Justice	2	Boy	
+Kaami	Perfect	8	Boy	
+Keyan	Crown, King, A form of keon	2	Boy	
+Kabeer	Indian saint in 1440, Great, Famous sufi saint, Noble	6	Boy	
+Kahill	Best friend	8	Boy	
+Kadeem	Slave to God	3	Boy	
+Kashif	Uncovered, Pioneer, Discoverer	9	Boy	
+Kadeen	Little battle, Companion	22	Boy	
+Kameel	Beautiful, Perfect, One of the ninety nine qualities of God	2	Boy	
+Khadim	Servant of God	1	Boy	
+Khalid	Abiding, Immortal, Eternal	9	Boy	
+Kausar	108th surah of the holy Quran, Reservoir in paradise	8	Boy	
+Karma	Deed, Action, Destiny, Code, Duty	8	Boy	
+Kiyan	Kings, Royal	6	Boy	
+Kareem	Generous, Noble, Friendly, Precious and distinguished, Kind	8	Boy	
+Kinza	Hidden treasure	7	Boy	
+Keyath	From the battlefield	7	Boy	
+Kaisan	Wise, A companion of the prophet	1	Boy	
+Khawar	From east to west	8	Boy	
+Kahil	Friend, Lover	5	Boy	
+Kaleem	Speaker, Talker, Prophet Muhammad	2	Boy	
+Khizar	Name of a prophet	1	Boy	
+Kaiser	Caesar, Emperor, King	9	Boy	
+Kashan	A famous city	9	Boy	
+Kadar	Divine destiny, Powerful	8	Boy	
+Kafeel	Responsible, Surety, Sponsor, Guarantor	22	Boy	
+Kalam	Speech, Conversation, Philosophy, Discussion, Compliment	11	Boy	
+Kabar	Tomb	6	Boy	
+Kader	Green or green crop connoting freshness and innocence, Powerful	3	Boy	
+Kifat	Lion, Cheetah, Tiger	2	Boy	
+Khwaja	Master, Owner	9	Boy	
+Kafil	Responsible, Surety, Sponsor, Guarantor	3	Boy	
+Kashfi	To reveal	9	Boy	
+Kadin	Little battle, Companion	3	Boy	
+Kasim	Divided, Lovely	8	Boy	
+Kahal	One who has dark eyelids	6	Boy	
+Kalan	Greater, Bigger, Senior	3	Boy	
+Kahul	One who has beautiful black eyes	8	Boy	
+Kajji	An authority of Hadith at baghdad	5	Boy	
+Khayal	Imagination, Concentration	22	Boy	
+Kalim	Speaker, Talker, Prophet Muhammad	1	Boy	
+Kanoom	Trusted	6	Boy	
+Kaliq	Creative, Refers to a quality of God	5	Boy	
+Kaiqad	Dapple	7	Boy	
+Kayani	Of good nature	7	Boy	
+Kalbi	An authority on genealogy and the Quran	8	Boy	
+Khalis	Pure, Clear	6	Boy	
+Kareef	Born in autumn	1	Boy	
+Kazim	Restrainer of anger	6	Boy	
+Khazin	Treasurer	6	Boy	
+Kasib	Fertile, Winner, Provider	6	Boy	
+Karam	Generosity, Action, Destiny, Code, Duty	8	Unisex	
+Khidr	Green	5	Boy	
+Kohl	Kohl	1	Boy	
+Khaqan	Great king	7	Boy	
+Kasir	Another name of God, One who breaks	22	Boy	
+Khasib	Fruitful, Prolific	5	Boy	
+Kuram	Selfless	1	Boy	
+Kaukab	Star, Celestial body	11	Unisex	
+Khuram	Tiger	9	Boy	
+Khatib	Orator, Preacher, Religious minister	6	Boy	
+Kasam	Oath	9	Boy	
+Khulud	Immortality, Eternity, Infinity	5	Unisex	
+Khalil	Beautiful, Good friend	8	Boy	
+Khyber	Famous pass	6	Boy	
+Khawli	Deer name of a sahabi who p	1	Boy	
+Khaliq	Suitable, Polite, Creator	4	Boy	
+Khadin	Best friend	11	Boy	
+Kassab	Winner	8	Boy	
+Khatir	Heart, Idea	4	Boy	
+Khafiz	Easy, Comfortable, Smooth	7	Boy	
+Khalam	Servant to Allah	1	Boy	
+Khafid	Easy, Comfortable, Smooth	3	Boy	
+Khalaf	Descendent, Successor	3	Boy	
+Kateb	Writer	3	Boy	
+Kiram	Generous	7	Boy	
+Khulus	Clearness, Purity	2	Boy	
+Kasra	A character in shahnameh	5	Boy	
+Kateebh	Battalion	7	Boy	
+Kibaar	Great ones	6	Boy	
+Kifah	Struggle, Fight	8	Unisex	
+Kashaf	Opener, Untie, One who opens	1	Boy	
+Khushhal	Happy, Prosperous	7	Boy	
+Kafiyah	Sufficient	7	Boy	
+Kamilan	Without flaws	7	Boy	
+Kalifah	Lover	3	Boy
+Kalsum	Name of prophet muhammads (Pbuh) daughter, One who has full healthy cheeks	5	Boy	
+Kamilat	Complete	22	Boy	
+Kalsumah	One who has full healthy cheeks	5	Boy	
+Kifahah	Struggle	8	Boy	
+Katibah	Writer	7	Boy	
+Kazimah	One who controls her anger	6	Boy

@@ -1,0 +1,152 @@
+Noori	Shining, Brightness	8	Boy	
+Nooh	A prophets name	7	Boy	
+Neeya	A desire for something, Purpose, Bright, Lord Hanuman	5	Unisex	
+Nashi	Advisor	6	Boy	
+Nahi	Another name of prophet Muhammad	5	Boy	
+Naim	Comfort, Tranquility, Ease	1	Boy	
+Naaji	Saver, Safe	8	Unisex	
+Naef	Excess, Surplus	8	Boy	
+Nafi	Propitious	3	Boy	
+Naif	Exalted, Lofty, Eminent	3	Boy	
+Naib	Deputy	8	Boy	
+Nur	Light, Angel	8	Boy	
+Nail	Acquirer, Earner, Blue, Winner, Gainer	9	Unisex	
+Naase	Clear, Pure, White	4	Boy	
+Nuri	Shining, Brightness	8	Boy	
+Nadr	Flourishing	1	Boy	
+Nuh	A prophets name	7	Boy	
+Naji	Saver, Safe	7	Boy	
+Naqi	Pure	5	Boy	
+Noon	Sword blade	22	Boy	
+Nehan	Beautiful	6	Boy	
+Naadir	Fresh, Dear, Rare, Pinnacle	11	Boy	
+Nadir	Fresh, Dear, Rare, Pinnacle	1	Boy	
+Nabeel	Noble, Generous	3	Boy	
+Nadeen	Lord of rivers, Ocean	7	Boy	
+Navil	Noble, Generous, Peacock	22	Boy	
+Nabhan	Noble, Outstanding	22	Boy	
+Nahid	Honorable, Generosity	9	Boy	
+Naazim	Arranger, Adjuster	1	Boy	
+Nahyan	Stopper	9	Boy	
+Naeem	Comfort, Tranquility, Ease	2	Boy	
+Naajy	Safe, Cute	6	Boy	
+Nishat	A tree, Sincere	8	Boy	
+Naasih	Advisor, Well wisher	7	Boy	
+Nisar	Nature, Warm cloth, Victorious	7	Boy	
+Nikhat	Fragrance	9	Boy	
+Nabeeh	Noble, Famous, Eminent, Outstanding	8	Boy	
+Nawaz	Attractive, Beloved, Mistress	2	Boy	
+Najeeb	Of noble descent, Intelligent	1	Boy	
+Nazal	Fell Down	9	Boy	
+Nairab	Bazrugi wala	9	Boy	
+Naveed	Good news, Glad tidings	6	Boy	
+Noman	Men with all blessings of Allah	3	Boy	
+Nauman	Men with all blessings of Allah	1	Boy	
+Nawfal	Generous, Old Arabic name of the sea	3	Boy	
+Nakir	Hateful	8	Boy	
+Nasir	Helper of God, One who helps, Assister, Friend, One who scatters, Exposer, Announcer, Protector, Supporter	7	Boy	
+Najy	Safe	5	Boy	
+Naseem	Breath of fresh air, Morning air, Breeze	3	Boy	
+Nazeeh	Pure, Chaste	5	Boy	
+Nayaab	Rare, Unattainable, Precious	8	Boy	
+Neeraf	River	4	Boy	
+Niyaz	Dedication, Offer	3	Boy	
+Nayab	Rare, Precious	7	Boy	
+Nazif	Clean, Neat	11	Boy	
+Naseer	Helper of God, One who helps, Assister, Friend, One who scatters, Exposer, Announcer, Protector, Supporter	8	Boy	
+Naabih	Noble, Famous, Eminent, Outstanding	8	Boy	
+Nashir	Helper of God, One who helps, Assister, Friend, One who scatters, Exposer, Announcer, Protector, Supporter	6	Boy	
+Nighat	Sight, Vision	5	Boy	
+Noraiz	The first Ray of sunlight which came to earth	11	Boy	
+Nufail	Gracious	9	Boy	
+Nabil	Noble, Generous, Peacock	2	Boy	
+Nehad	Brave, Face challenge	5	Boy	
+Nubaid	Bringing happiness	6	Boy	
+Nadim	Friendly, Entertaining, Friend or companion	5	Boy	
+Nidal	Fight, Defense	22	Boy	
+Nuaym	A narrator of Hadith, Name of several of the prophets companions	2	Boy	
+Nuraz	The treasure of Noor	8	Boy	
+Nizal	Striving, Contest	8	Boy	
+Nasar	Help, Support	8	Boy	
+Numair	Panther	4	Boy	
+Narin	Delicate	11	Unisex	
+Nameer	Pure, Leopard, Tiger, Panther	11	Boy	
+Nafees	Pureness, Pure, Precious	5	Boy	
+Najah	Success	7	Unisex	
+Naaqid	A critic, A reviewer, Fault finder	1	Boy	
+Nashit	Energetic, Dynamic, Lively, Active	8	Boy	
+Nemat	Blessing, Boon, Favor	8	Boy	
+Nasif	Just	22	Boy	
+Nagib	Noble, Intelligent	6	Boy	
+Nasim	Breath of fresh air, Morning air, Breeze	2	Unisex	
+Nawab	Barron, Ruler	5	Boy	
+Nayif	High, Excellent, Surplus, Abundance	1	Boy	
+Nafis	Pureness, Pure, Precious	22	Boy	
+Namik	Writer, Author	3	Boy	
+Nuwaib	Leader	7	Boy	
+Nasuh	Advised, Suggested, Sincere, Faithful	9	Boy	
+Nabigh	Genius	5	Boy	
+Nawaj	Attractive, Beloved, Mistress	4	Boy	
+Najair	Little star	8	Boy	
+Nazar	The one who gives	6	Boy	
+Nuwair	Light	5	Boy	
+Navid	Good news, Glad tidings	5	Boy	
+Naseef	Just	5	Boy	
+Nuhaid	Big	3	Boy	
+Nazeer	One who warns, Bright, Radiant, Blooming, Observer, Supervisor	6	Boy	
+Najib	Of noble descent, Intelligent	9	Boy	
+Nazeef	Clean, Neat	3	Boy	
+Nuril	Light of God	11	Boy	
+Niaz	Dependence	5	Unisex
+Nadhir	Fresh, Dear, Rare, Pinnacle	9	Boy	
+Najaat	Rescue, Salvation, Safety	11	Unisex	
+Nazim	Arranger, Adjuster	9	Boy	
+Naqeeb	Leader, President, Head, Chief	8	Boy	
+Najji	Intimate friend, Bosom friend	8	Boy	
+Najih	Sound, Good opinion, Successful	6	Boy	
+Najm	Star, Planet	11	Unisex	
+Nasri	Winner of victory after victory	7	Boy	
+Najeeh	Sound, Good opinion, Successful	7	Boy	
+Nader	Rare	6	Boy	
+Natiq	Talker, Speaker, Rational	7	Boy	
+Nazir	One who warns, Bright, Radiant, Blooming, Observer, Supervisor	5	Boy	
+Nimr	Tiger	9	Boy	
+Najeed	Highland	3	Boy	
+Naser	Helper of God, One who helps, Assister, Friend, One who scatters, Exposer, Announcer, Protector, Supporter	3	Boy	
+Nawl	Nobleness	5	Boy	
+Nimat	Blessings, Loans	3	Unisex	
+Nour	Light	5	Unisex	
+Nasmi	Breeze	2	Boy	
+Nasib	Fait, Noble, Relative	9	Boy	
+Najam	Star	3	Boy	
+Nijad	Tall, Dominant	2	Boy	
+Nasr	Help, Victory	7	Boy	
+Nurani	Luminous	5	Boy	
+Nurat	Light	2	Boy	
+Naratain	White flowers	6	Boy	
+Nizami	Of, Relating to Nizam	9	Boy	
+Nasih	Advisor, Well wisher	6	Boy	
+Naqit	Salih bin Aasim had this name	7	Boy	
+Nazih	Pure, Chaste	4	Boy	
+Nizar	Little, Small	5	Boy	
+Nithar	Sacrifice	7	Boy	
+Niazi	Petitioner, An afghan tribe	5	Boy	
+Naqib	Leader, President, Head, Chief	7	Boy	
+Nouri	Light	5	Boy	
+Nizam	Administration	9	Boy	
+Nokhez	Newly bloomed, Arising	7	Boy	
+Namood	Sample, Model, Paragon	8	Boy	
+Naqid	A critic, A reviewer, Fault finder	9	Boy	
+Nazer	One who warns, Bright, Radiant, Blooming, Observer, Supervisor	1	Boy	
+Namir	Pure, Leopard, Tiger, Panther	1	Boy	
+Nazmi	Arranger, Organizer	9	Boy	
+Nawyan	Intending	6	Boy	
+Nawhan	Exalted	7	Boy	
+Nurahan	Radiant king	5	Boy	
+Nawras	Young	22	Boy	
+Nurtaj	Crown of light	3	Boy	
+Nuwaidir	Rare	9	Boy	
+Nawfah	High	8	Boy	
+Nuwairan	Radiance	11	Boy	
+Nausham	Suggest meaning	5	Boy	
+Nimik	Suggest meaning	11	Boy

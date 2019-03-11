@@ -1,0 +1,92 @@
+Taha	Pure	3	Boy	
+Taj	Crown, The Taaj Mahal	4	Boy	
+Taib	Repentant, Penitent	5	Boy	
+Taai	Obedient, Willing	4	Boy	
+Tooba	Good news, Blessedness, Beatitude	8	Unisex	
+Taif	Vision, Specter	9	Unisex	
+Taqi	God fearing, Devout, Pious	2	Boy	
+Toti	Parrot	1	Boy	
+Tali	Rising, Ascending, Going up	6	Unisex	
+Taahir	Pure, Chaste, Clean, Modest, Holy	3	Boy	
+Taizeen	Encouragement	8	Boy	
+Talha	Kind of tree	6	Boy	
+Tahir	Pure, Chaste, Clean, Modest, Holy	11	Boy	
+Talish	Lord of the earth, Mountain, Glittering, Bright	6	Boy	
+Taamir	Fruitful, Productive	8	Boy	
+Tariq	Method, Way, Mode, Manner, One who crosses the river of life, Morning star	11	Boy	
+Tamal	A tree with very dark bark	11	Boy	
+Taimur	Brave strong, A famous king, Iron	1	Boy	
+Thaman	Price, Worth	3	Boy	
+Talat	Appearance, Face, Countenance, Vision	9	Boy	
+Tamam	Generous	3	Boy	
+Tufan	Storm	8	Boy	
+Tareq	Star, Pupil of eye, Protector	7	Boy	
+Tareef	Rare, Uncommon	1	Boy	
+Thameem	Perfect, Complete, Generalization	11	Boy	
+Taahid	To console, To guard	7	Boy	
+Tausiq	Reinforcement	6	Boy	
+Thaqib	Piercing	3	Boy	
+Talal	Nice, Admirable	1	Boy	
+Taaraz	Powerful, Strong, Ornamentation, Decoration	22	Boy	
+Taheem	Pure	7	Boy	
+Turan	Brave	2	Boy	
+Tarfah	Kind of tree	9	Boy	
+Taseen	A name of the prophet (Pbuh), Ever ambitious	1	Boy	
+Taufiq	Instruction, Courage, Daring, Guidance	11	Boy	
+Taraz	Powerful, Strong, Ornamentation, Decoration	3	Boy	
+Tahoor	Purity	5	Boy	
+Taher	Pure, Chaste, Clean, Modest, Holy	7	Boy	
+Taban	Bright Moon light	11	Unisex	
+Tanim	Wave of sea	3	Boy	
+Taheer	Pure, Chaste, Clean, Modest, Holy	3	Boy	
+Tihami	A title of the prophet mohammad (Saw)	6	Boy	
+Taalim	Sky, Education, Instruction	2	Boy	
+Tufail	Intercession, Mediation	6	Boy	
+Tazim	Honor, Respect	6	Unisex	
+Tameem	Perfect, Complete, Generalization	3	Boy	
+Taisir	Making easy, Facilitating	4	Unisex	
+Tamim	Perfect, Complete, Generalization	2	Boy	
+Tajim	Honor, Respect	8	Boy	
+Thabit	Firm	6	Boy	
+Tamir	One who knows dates, Tall	7	Boy	
+Tabeed	Glitter, Curve, Shine	1	Boy	
+Tareeq	Method, Way, Mode, Manner, One who crosses the river of life, Morning star	3	Boy	
+Tazeem	Honor, Respect	7	Boy	
+Talim	Sky, Education, Instruction	1	Boy	
+Tamiz	Discretion, Sense, Manners, Distinction, Distinguishing	6	Boy	
+Talaat	Appearance, Face, Countenance, Vision	1	Boy	
+Tawas	Name of a bird	1	Boy	
+Tulaib	Concerning a seeker	2	Boy	
+Tabeen	Followers, Those who believe	2	Unisex	
+Tarub	Lively, Gleeful, Merry	8	Unisex	
+Tarooq	Star	5	Boy	
+Toqeer	Respect	8	Boy	
+Tahib	Watchful	22	Boy	
+Tameez	Discretion, Sense, Manners, Distinction, Distinguishing	7	Unisex	
+Taseel	Strong, Power	8	Boy	
+Tazam	Be superior, Elder	7	Boy	
+Thawab	Reward	1	Unisex	
+Talaah	Young palm tree, Face	7	Boy	
+Tawoos	Peacock	3	Unisex	
+Talab	Demand	9	Boy	
+Taroon	Connection, Young, Youth, Ageless, Gentle	11	Boy	
+Taloot	Commander of banu-israils	2	Boy	
+Talaab	Demand, Sought after	1	Boy	
+Turab	Soil, Dust, Earth	8	Boy	
+Taqiy	Devout, God fearing	9	Boy	
+Taseer	An effect, Impression	5	Boy	
+Treef	Rare, Uncommon, Strange	9	Boy	
+Taloob	Desirous	2	Boy	
+Tiraq	Strength, Force, Occupation	11	Boy	
+Tireem	Tall	7	Boy	
+Tilal	Amazing	9	Boy	
+Thaqaf	To surpass in skill	8	Boy	
+Thayer	Rebel	5	Boy	
+Talum	Be sympathetic	4	Boy	
+Thamar	Fruit, Outcome	7	Boy	
+Tani	Suggest meaning	8	Boy	
+Tayilah	Power	4	Boy	
+Tullaab	Students	6	Boy	
+Tanny	Suggest meaning	2	Boy	
+Tasif	Suggest meaning	1	Boy	
+Turju	Suggest meaning	9	Boy
